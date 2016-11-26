@@ -1,0 +1,8 @@
+{
+  "packageManager": "npm",
+  "name": "graphiql-workspace",
+  "repo": "OlegIlyenko/graphiql-workspace",
+  "files": {
+    "include": [ "graphiql-workspace.min.js", "graphiql-workspace.js", "graphiql-workspace.css" ]
+  }
+}
